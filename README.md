@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/lsgdefault/xdphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/lsgdefault/xdphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/lsgdefault/xdphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/lsgdefault/xdphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/lsgdefault/xdphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -59,12 +59,12 @@ $ cd zphisher
 $ bash zphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `xdphisher` is installed.
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull lsgdefault/xdphisher
+$ docker run --rm -it lsgdefault/xdphisher
 ```
 
 ### Dependencies
@@ -75,7 +75,7 @@ $ docker run --rm -it htrtech/zphisher
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
+> All the dependencies will be installed automatically when you run `xdphisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
