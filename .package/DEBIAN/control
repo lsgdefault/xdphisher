@@ -1,0 +1,8 @@
+Package: xdphisher
+Version: 2.2
+Installed-Size: 9400
+Architecture: all
+Maintainer: @lsgdefault
+Depends: php, wget, git, curl
+Homepage: https://github.com/lsgdefault/cdphisher
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
