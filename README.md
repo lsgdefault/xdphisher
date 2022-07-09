@@ -53,10 +53,10 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 $ git clone https://github.com/lsgdefault/xdphisher.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `xdphisher.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd xdphisher
+$ bash xdphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `xdphisher` is installed.
